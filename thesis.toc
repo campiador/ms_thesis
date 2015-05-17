@@ -1,0 +1,88 @@
+\contentsline {chapter}{فهرست شکل‌ها}{خ}{chapter*.2}
+\contentsline {chapter}{فهرست جدول‌ها}{ذ}{chapter*.3}
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
+\contentsline {section}{\numberline {1‏-‏1}تعریف مسئله }{1}{section.1.1}
+\contentsline {section}{\numberline {1‏-‏2}اهمیت موضوع}{2}{section.1.2}
+\contentsline {section}{\numberline {1‏-‏3}ادبیات موضوع}{2}{section.1.3}
+\contentsline {section}{\numberline {1‏-‏4}اهداف تحقیق}{4}{section.1.4}
+\contentsline {section}{\numberline {1‏-‏5}ساختار پایان‌نامه}{5}{section.1.5}
+\contentsline {chapter}{\numberline {2}مفاهیم اولیه}{6}{chapter.2}
+\contentsline {section}{\numberline {2‏-‏1}ترواهای سخت‌افزاری}{6}{section.2.1}
+\contentsline {section}{\numberline {2‏-‏2}دسته‌بندی تروا‌های سخت‌افزاری}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏1}فاز درج تروا}{8}{subsection.2.2.1}
+\contentsline {subsubsection}{الف) فاز مشخصات}{8}{section*.4}
+\contentsline {subsubsection}{ب) فاز طراحی}{8}{section*.5}
+\contentsline {subsubsection}{ج) فاز ساخت}{8}{section*.6}
+\contentsline {subsubsection}{د) فاز مونتاژ}{9}{section*.7}
+\contentsline {subsubsection}{ه) فاز آزمون}{9}{section*.8}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏2}سطح انتزاع}{9}{subsection.2.2.2}
+\contentsline {subsubsection}{الف) سطح سیستم}{9}{section*.9}
+\contentsline {subsubsection}{ب) سطح انتقال ثبات}{9}{section*.10}
+\contentsline {subsubsection}{ج) سطح دروازه‌های منطقی}{10}{section*.11}
+\contentsline {subsubsection}{د) سطح ترانزیستور}{10}{section*.12}
+\contentsline {subsubsection}{ه)سطح layout}{10}{section*.13}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏3}روش فعال شدن تروا}{10}{subsection.2.2.3}
+\contentsline {subsubsection}{الف) تروا‌های با تحریک داخلی}{11}{section*.14}
+\contentsline {subsubsection}{ب) تروا‌های با تحریک خارجی}{11}{section*.15}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏4}عملکرد تروا}{11}{subsection.2.2.4}
+\contentsline {subsubsection}{الف) تغییر عملیات}{11}{section*.16}
+\contentsline {subsubsection}{ب) کاهش قابلیت اطمینان}{12}{section*.17}
+\contentsline {subsubsection}{ج) نشت اطلاعات}{12}{section*.18}
+\contentsline {subsubsection}{د) رد کردن خدمات}{12}{section*.19}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏5}محل قرارگیری}{12}{subsection.2.2.5}
+\contentsline {subsubsection}{الف) تروا‌های واحد پردازشی}{12}{section*.20}
+\contentsline {subsubsection}{ب) تروا‌های حافظه}{13}{section*.21}
+\contentsline {subsubsection}{ج) تروا‌های ورودی/خروجی}{13}{section*.22}
+\contentsline {subsubsection}{د) تروا‌های منبع تغذیه}{13}{section*.23}
+\contentsline {subsubsection}{ه) تروا‌های شبکه ساعت}{13}{section*.24}
+\contentsline {section}{\numberline {2‏-‏3}مدل کردن تروا‌های سخت‌افزاری}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏1}مدار تحریک}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏2}مدار بار}{17}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}کارهای پیشین}{18}{chapter.3}
+\contentsline {section}{\numberline {3‏-‏1}تشخیص تروا‌های سخت‌افزاری}{18}{section.3.1}
+\contentsline {section}{\numberline {3‏-‏2}دسته‌بندی روش‌های تشخیص تروا}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏1}رویکردهای مبتنی بر آزمون منطقی}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏2}روش‌های مبتنی بر تحلیل اثرات جانبی}{22}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏3}رویکردهای نظارت زمان اجرا}{26}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏4}روش‌های طراحی مطمئن}{27}{subsection.3.2.4}
+\contentsline {subsubsection}{روش ثبات‌های سایه}{28}{section*.25}
+\contentsline {subsubsection}{روش استفاده از نوسانگرهای حلقوی}{30}{section*.26}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏5}روش‌های مبتنی بر حذف رخدادهای نادر}{31}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏6}طراحی برای آزمون تروا}{36}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏7}سخت‌افزار حامل اثبات}{36}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏8}مقایسه روش‌های تشخیص تروا}{38}{subsection.3.2.8}
+\contentsline {subsubsection}{ مقایسه رویکردهای تشخیص تروا بر اساس اندازه نسبی تروا}{38}{section*.27}
+\contentsline {subsubsection}{بررسی و مقایسه روش‌های تشخیص تروا}{39}{section*.28}
+\contentsline {chapter}{\numberline {4}روش پیشنهادی}{45}{chapter.4}
+\contentsline {section}{\numberline {4‏-‏1}راهکار ما}{45}{section.4.1}
+\contentsline {section}{\numberline {4‏-‏2}چالش‌های پیش رو در روش‌های تشخیص تروا}{46}{section.4.2}
+\contentsline {subsubsection}{مدل‌سازی تروا}{47}{section*.29}
+\contentsline {subsubsection}{تولید بردارهای آزمون}{48}{section*.30}
+\contentsline {subsubsection}{نویز اندازه‌گیری، محیط و فرآیند}{49}{section*.31}
+\contentsline {section}{\numberline {4‏-‏3}شبیه سازی}{49}{section.4.3}
+\contentsline {subsection}{\numberline {4‏-‏3‏-‏1}محیط شبیه‌سازی}{51}{subsection.4.3.1}
+\contentsline {subsubsection}{\lr {ModelSim}}{51}{section*.32}
+\contentsline {subsubsection}{\lr {vcd2saif commandline tool}}{52}{section*.33}
+\contentsline {subsubsection}{\lr {Synopsis Design Compiler}}{52}{section*.34}
+\contentsline {subsubsection}{\lr {Synopsis Power Compiler}}{52}{section*.35}
+\contentsline {subsubsection}{\lr {Trojan Helper}}{52}{section*.36}
+\contentsline {subsubsection}{\lr {Insert Trojan}}{55}{section*.37}
+\contentsline {subsubsection}{\lr {Tetramax}}{55}{section*.38}
+\contentsline {subsection}{\numberline {4‏-‏3‏-‏2}مجموعه ‌داده}{55}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4‏-‏3‏-‏3}نتایج شبیه‌سازی}{55}{subsection.4.3.3}
+\contentsline {section}{\numberline {4‏-‏4}الگوریتم تولید بردار آزمون}{56}{section.4.4}
+\contentsline {section}{\numberline {4‏-‏5}شبیه‌ساز تروا یاب}{56}{section.4.5}
+\contentsline {section}{\numberline {4‏-‏6}بررسی اثر اندازه تروا بر نتیجه آزمون}{56}{section.4.6}
+\contentsline {section}{\numberline {4‏-‏7}مقایسه نرخ کشف آزمون اثرات جانبی با استفاده از بردارهای هوشمند و تصادفی}{56}{section.4.7}
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری}{59}{chapter.5}
+\contentsline {section}{\numberline {5‏-‏1}جمع‌بندی نتایج بدست آمده}{59}{section.5.1}
+\contentsline {subsection}{\numberline {5‏-‏1‏-‏1}یک آزمون اثرات جانبی بهتر}{60}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5‏-‏1‏-‏2}مشاهده تاثیر اندازه تروا در نتیجه آزمون}{60}{subsection.5.1.2}
+\contentsline {section}{\numberline {5‏-‏2}مسائل باز و کارهای آتی}{60}{section.5.2}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏1}آزمون خودکار اندازه‌آگاه}{60}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏2}محل فرضی تروا}{60}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏3}مدل مدار و تروا}{61}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏4}ایجاد فعالیت نسبی بیشتر برای تروا‌ها}{61}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏5}افزایش دقت شبیه‌سازی}{61}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5‏-‏2‏-‏6}آزمون واقعی}{61}{subsection.5.2.6}
+\contentsline {chapter}{\rl {{مراجع}\hfill }}{62}{chapter*.39}

@@ -1,0 +1,296 @@
+\begin{thebibliography}{10}
+
+\bibitem{tforce2005}
+{D}efense Science Board Task~Force.
+\newblock High performance microchip supply.
+\newblock Technical report, 2005.
+
+\bibitem{commerce2010}
+{U}nited States Department of Commerce Bureau~of Industry and S.~O.
+  of~Technology~Evaluation.
+\newblock Defense industrial base assessment : Counterfeit electronics.
+\newblock Technical report, 2010.
+
+\bibitem{tehranipoor2010survey}
+M.~Tehranipoor and F.~Koushanfar.
+\newblock A survey of hardware trojan taxonomy and detection.
+\newblock volume~27, pages 10--25. IEEE, 2010.
+
+\bibitem{agrawal2007trojan}
+D.~Agrawal, S.~Baktir, D.~Karakoyunlu, P.~Rohatgi, and B.~Sunar.
+\newblock Trojan detection using ic fingerprinting.
+\newblock In {\em Security and Privacy, 2007. SP'07. IEEE Symposium on}, pages
+  296--310. IEEE, 2007.
+
+\bibitem{rad2010sensitivity}
+R.~Rad, J.~Plusquellic, and M.~Tehranipoor.
+\newblock A sensitivity analysis of power signal methods for detecting hardware
+  trojans under real process and environmental conditions.
+\newblock {\em Very Large Scale Integration (VLSI) Systems, IEEE Transactions
+  on}, 18(12):1735--1744, 2010.
+
+\bibitem{wang2008hardware}
+X.~Wang, H.~Salmani, M.~Tehranipoor, and J.~Plusquellic.
+\newblock Hardware trojan detection and isolation using current integration and
+  localized current analysis.
+\newblock In {\em Defect and Fault Tolerance of VLSI Systems, 2008. DFTVS'08.
+  IEEE International Symposium on}, pages 87--95. IEEE, 2008.
+
+\bibitem{jin2008hardware}
+Y.~Jin and Y.~Makris.
+\newblock Hardware trojan detection using path delay fingerprint.
+\newblock In {\em Hardware-Oriented Security and Trust, 2008. HOST 2008. IEEE
+  International Workshop on}, pages 51--57. IEEE, 2008.
+
+\bibitem{li2008speed}
+J.~Li and J.~Lach.
+\newblock At-speed delay characterization for ic authentication and trojan
+  horse detection.
+\newblock In {\em Hardware-Oriented Security and Trust, 2008. HOST 2008. IEEE
+  International Workshop on}, pages 8--14. IEEE, 2008.
+
+\bibitem{jha2008randomization}
+S.~Jha.
+\newblock Randomization based probabilistic approach to detect trojan circuits.
+\newblock In {\em High Assurance Systems Engineering Symposium, 2008. HASE
+  2008. 11th IEEE}, pages 117--124. IEEE, 2008.
+
+\bibitem{banga2008region}
+M.~Banga and M.~S. Hsiao.
+\newblock A region based approach for the identification of hardware trojans.
+\newblock In {\em Hardware-Oriented Security and Trust, 2008. HOST 2008. IEEE
+  International Workshop on}, pages 40--47. IEEE, 2008.
+
+\bibitem{wolff2008towards}
+F.~Wolff, C.~Papachristou, S.~Bhunia, and R.~S. Chakraborty.
+\newblock Towards trojan-free trusted ics: Problem analysis and detection
+  scheme.
+\newblock In {\em Proceedings of the conference on Design, automation and test
+  in Europe}, pages 1362--1365. ACM, 2008.
+
+\bibitem{salmani2012novel}
+H.~Salmani, M.~Tehranipoor, and J.~Plusquellic.
+\newblock A novel technique for improving hardware trojan detection and
+  reducing trojan activation time.
+\newblock {\em Very Large Scale Integration (VLSI) Systems, IEEE Transactions
+  on}, 20(1):112--125, 2012.
+
+\bibitem{wang2008detecting}
+X.~Wang, M.~Tehranipoor, and J.~Plusquellic.
+\newblock Detecting malicious inclusions in secure hardware: Challenges and
+  solutions.
+\newblock In {\em Hardware-Oriented Security and Trust, 2008. HOST 2008. IEEE
+  International Workshop on}, pages 15--19. IEEE, 2008.
+
+\bibitem{abramovici2009integrated}
+M.~Abramovici and P.~Bradley.
+\newblock Integrated circuit security: new threats and solutions.
+\newblock In {\em Proceedings of the 5th Annual Workshop on Cyber Security and
+  Information Intelligence Research: Cyber Security and Information
+  Intelligence Challenges and Strategies}, page~55. ACM, 2009.
+
+\bibitem{kim2009trojan}
+L.-W. Kim, J.~D. Villasenor, and C.~K. Ko{\c{c}}.
+\newblock A trojan-resistant system-on-chip bus architecture.
+\newblock In {\em Military Communications Conference, 2009. MILCOM 2009. IEEE},
+  pages 1--6. IEEE, 2009.
+
+\bibitem{salmani2009new}
+H.~Salmani, M.~Tehranipoor, and J.~Plusquellic.
+\newblock New design strategy for improving hardware trojan detection and
+  reducing trojan activation time.
+\newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
+  International Workshop on}, pages 66--73. IEEE, 2009.
+
+\bibitem{banga2009vitamin}
+M.~Banga and M.~S. Hsiao.
+\newblock Vitamin: Voltage inversion technique to ascertain malicious
+  insertions in ics.
+\newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
+  International Workshop on}, pages 104--107. IEEE, 2009.
+
+\bibitem{chakraborty2009security}
+R.~S. Chakraborty and S.~Bhunia.
+\newblock Security against hardware trojan through a novel application of
+  design obfuscation.
+\newblock In {\em Proceedings of the 2009 International Conference on
+  Computer-Aided Design}, pages 113--116. ACM, 2009.
+
+\bibitem{jin2010dftt}
+Y.~Jin, N.~Kupp, and Y.~Makris.
+\newblock Dftt: design for trojan test.
+\newblock In {\em Electronics, Circuits, and Systems (ICECS), 2010 17th IEEE
+  International Conference on}, pages 1168--1171. IEEE, 2010.
+
+\bibitem{drzevitzky2009proof}
+S.~Drzevitzky, U.~Kastens, and M.~Platzner.
+\newblock Proof-carrying hardware: Towards runtime verification of
+  reconfigurable modules.
+\newblock In {\em Reconfigurable Computing and FPGAs, 2009. ReConFig'09.
+  International Conference on}, pages 189--194. IEEE, 2009.
+
+\bibitem{love2011enhancing}
+E.~Love, Y.~Jin, and Y.~Makris.
+\newblock Enhancing security via provably trustworthy hardware intellectual
+  property.
+\newblock In {\em Hardware-Oriented Security and Trust (HOST), 2011 IEEE
+  International Symposium on}, pages 12--17. IEEE, 2011.
+
+\bibitem{karri2010trustworthy}
+R.~Karri, J.~Rajendran, K.~Rosenfeld, and M.~Tehranipoor.
+\newblock Trustworthy hardware: Identifying and classifying hardware trojans.
+\newblock {\em Computer}, 43(10):39--46, 2010.
+
+\bibitem{rad2008power}
+R.~M. Rad, X.~Wang, M.~Tehranipoor, and J.~Plusquellic.
+\newblock Power supply signal calibration techniques for improving detection
+  resolution to hardware trojans.
+\newblock In {\em Proceedings of the 2008 IEEE/ACM International Conference on
+  Computer-Aided Design}, pages 632--639. IEEE Press, 2008.
+
+\bibitem{chakraborty2009hardware}
+R.~S. Chakraborty, S.~Narasimhan, and S.~Bhunia.
+\newblock Hardware trojan: Threats and emerging solutions.
+\newblock In {\em High Level Design Validation and Test Workshop, 2009. HLDVT
+  2009. IEEE International}, pages 166--171. IEEE, 2009.
+
+\bibitem{chen2008hardware}
+Z.~Chen, X.~Guo, R.~Nagesh, A.~Reddy, M.~Gora, and A.~Maiti.
+\newblock Hardware trojan designs on basys fpga board.
+\newblock {\em Embedded System Challenge Contest in Cyber Security Awareness
+  Week-CSAW}, 2008, 2008.
+
+\bibitem{lin2009trojan}
+L.~Lin, M.~Kasper, T.~G{\"u}neysu, C.~Paar, and W.~Burleson.
+\newblock Trojan side-channels: Lightweight hardware trojans through
+  side-channel engineering.
+\newblock In {\em Cryptographic Hardware and Embedded Systems-CHES 2009}, pages
+  382--395. Springer, 2009.
+
+\bibitem{torrance2007reverse}
+R.~Torrance and D.~James.
+\newblock Reverse engineering in the semiconductor industry.
+\newblock In {\em Custom Integrated Circuits Conference, 2007. CICC'07. IEEE},
+  pages 429--436. IEEE, 2007.
+
+\bibitem{rai2009performance}
+D.~Rai and J.~Lach.
+\newblock Performance of delay-based trojan detection techniques under
+  parameter variations.
+\newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
+  International Workshop on}, pages 58--65. IEEE, 2009.
+
+\bibitem{aarestad2010detecting}
+J.~Aarestad, D.~Acharyya, R.~Rad, and J.~Plusquellic.
+\newblock Detecting trojans through leakage current analysis using multiple
+  supply pad s.
+\newblock {\em Information Forensics and Security, IEEE Transactions on},
+  5(4):893--904, 2010.
+
+\bibitem{alkabani2009consistency}
+Y.~Alkabani and F.~Koushanfar.
+\newblock Consistency-based characterization for ic trojan detection.
+\newblock In {\em Proceedings of the 2009 International Conference on
+  Computer-Aided Design}, pages 123--127. ACM, 2009.
+
+\bibitem{potkonjak2009hardware}
+M.~Potkonjak, A.~Nahapetian, M.~Nelson, and T.~Massey.
+\newblock Hardware trojan horse detection using gate-level characterization.
+\newblock In {\em Design Automation Conference, 2009. DAC'09. 46th ACM/IEEE},
+  pages 688--693. IEEE, 2009.
+
+\bibitem{banga2009novel}
+M.~Banga and M.~S. Hsiao.
+\newblock A novel sustained vector technique for the detection of hardware
+  trojans.
+\newblock In {\em VLSI Design, 2009 22nd International Conference on}, pages
+  327--332. IEEE, 2009.
+
+\bibitem{salmani2010layout}
+H.~Salmani, M.~Tehranipoor, and J.~Plusquellic.
+\newblock A layout-aware approach for improving localized switching to detect
+  hardware trojans in integrated circuits.
+\newblock In {\em Information Forensics and Security (WIFS), 2010 IEEE
+  International Workshop on}, pages 1--6. IEEE, 2010.
+
+\bibitem{du2010self}
+D.~Du, S.~Narasimhan, R.~S. Chakraborty, and S.~Bhunia.
+\newblock Self-referencing: a scalable side-channel approach for hardware
+  trojan detection.
+\newblock In {\em Cryptographic Hardware and Embedded Systems, CHES 2010},
+  pages 173--187. Springer, 2010.
+
+\bibitem{narasimhan2010multiple}
+S.~Narasimhan, D.~Du, R.~S. Chakraborty, S.~Paul, F.~Wolff, C.~Papachristou,
+  K.~Roy, and S.~Bhunia.
+\newblock Multiple-parameter side-channel analysis: a non-invasive hardware
+  trojan detection approach.
+\newblock In {\em Hardware-Oriented Security and Trust (HOST), 2010 IEEE
+  International Symposium on}, pages 13--18. IEEE, 2010.
+
+\bibitem{tehranipoor2012introduction}
+M.~Tehranipoor and C.~Wang.
+\newblock {\em Introduction to hardware security and trust}.
+\newblock Springer, 2012.
+
+\bibitem{pomeranz2004measure}
+I.~Pomeranz and S.~M. Reddy.
+\newblock A measure of quality for n-detection test sets.
+\newblock {\em Computers, IEEE Transactions on}, 53(11):1497--1503, 2004.
+
+\bibitem{chakraborty2008demand}
+R.~S. Chakraborty, S.~Paul, and S.~Bhunia.
+\newblock On-demand transparency for improving hardware trojan detectability.
+\newblock In {\em Hardware-Oriented Security and Trust, 2008. HOST 2008. IEEE
+  International Workshop on}, pages 48--50. IEEE, 2008.
+
+\bibitem{rajendran2011design}
+J.~Rajendran, V.~Jyothi, O.~Sinanoglu, and R.~Karri.
+\newblock Design and analysis of ring oscillator based design-for-trust
+  technique.
+\newblock In {\em VLSI Test Symposium (VTS), 2011 IEEE 29th}, pages 105--110.
+  IEEE, 2011.
+
+\bibitem{zhang2013detection}
+X.~Zhang, A.~Ferraiuolo, and M.~Tehranipoor.
+\newblock Detection of trojans using a combined ring oscillator network and
+  off-chip transient power analysis.
+\newblock {\em ACM Journal on Emerging Technologies in Computing Systems
+  (JETC)}, 9(3):25, 2013.
+
+\bibitem{bloom2009support}
+G.~Bloom, B.~Narahari, and R.~Simha.
+\newblock Os support for detecting trojan circuit attacks.
+\newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
+  International Workshop on}, pages 100--103. IEEE, 2009.
+
+\bibitem{hicks2010overcoming}
+M.~Hicks, M.~Finnicum, S.~T. King, M.~Martin, and J.~M. Smith.
+\newblock Overcoming an untrusted computing base: Detecting and removing
+  malicious hardware automatically.
+\newblock In {\em Security and Privacy (SP), 2010 IEEE Symposium on}, pages
+  159--172. IEEE, 2010.
+
+\bibitem{mcintyre2009dynamic}
+D.~McIntyre, F.~Wolff, C.~Papachristou, S.~Bhunia, and D.~Weyer.
+\newblock Dynamic evaluation of hardware trust.
+\newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
+  International Workshop on}, pages 108--111. IEEE, 2009.
+
+\bibitem{hsiaotrust}
+M.~S. Hsiao and M.~Tehranipoor.
+\newblock On trust in third-party hardware ips.
+
+\bibitem{chakraborty2009mero}
+R.~S. Chakraborty, F.~Wolff, S.~Paul, C.~Papachristou, and S.~Bhunia.
+\newblock Mero: A statistical approach for hardware trojan detection.
+\newblock In {\em Cryptographic Hardware and Embedded Systems-CHES 2009}, pages
+  396--410. Springer, 2009.
+
+\bibitem{borkar2003parameter}
+S.~Borkar, T.~Karnik, S.~Narendra, J.~Tschanz, A.~Keshavarzi, and V.~De.
+\newblock Parameter variations and impact on circuits and microarchitecture.
+\newblock In {\em Proceedings of the 40th annual Design Automation Conference},
+  pages 338--342. ACM, 2003.
+
+\end{thebibliography}
