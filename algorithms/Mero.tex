@@ -1,0 +1,53 @@
+
+\begin{latin}
+	\begin{algorithm}
+		\caption{\textbf{Procedure MERO} - 
+		Generate reduced test pattern set for Trojan detection}
+		\begin{algorithmic}[1]
+		\Statex{\textbf{inputs:}}
+		\Statex{\Comment Circuit netlist\fasele \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ } 
+		\Statex {$L$ \Comment List of rare nodes with associated rare values \ \ \ \ \ \ \ \ \ \ \ \ }
+		\Statex {$V$  \Comment  List of	random patterns \fasele \ }
+		\Statex {$N$  \Comment  Number of times a rare condition should be satisfied  }
+		
+		\Statex{\textbf{output:}}
+		\Statex{$R_V$ \Comment Reduced pattern set\fasele \ \ \ \ } 
+		
+		\State{Read circuit and generate \textit{hypergraph}}
+		
+		\ForAll{nodes in $L$}
+			\State{number of times node satisfies rare value ($A_R$)$\gets$ 0}
+		\EndFor
+		
+		\State{$R_V\gets \varnothing$}
+		
+		\ForAll{random pattern in $V$}
+			\State{Propagate values}
+			\State{Count the $\#$ of nodes ($C_R$) in $L$ with their rare value satisfied}
+		\EndFor
+		
+		\State{Sort vectors in $V$ in decreasing order of $C_R$}
+		
+		\ForAll{ vector $v_i$ in decreasing order of $C_R$}
+		
+			\ForAll{bit in $v_i$}
+				\State{Perturb the bit and re-compute $\#$ of satisfied rare values ($C^{\prime}_R$)}
+			
+			\If{($C^{\prime}_R > C_R$)}
+				\State{Accept the perturbation and form $v^{\prime}_i$ from $v_i$}
+			\EndIf
+		\EndFor
+		
+		\State{Update $A_R$ for all nodes in $L$ due to vector $v_i$}
+		
+		\If{$v^{\prime}_i$ increases $A_R$ for at least one rare node}
+			\State{Add the modified vector $v_i$ to $R_V$ }
+		\EndIf
+		
+		\If{($A_R \geq N$) for all nodes in $L$}
+			\State{break}
+		\EndIf
+		\EndFor
+		\end{algorithmic}
+	\end{algorithm}
+\end{latin}
