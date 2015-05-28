@@ -1,12 +1,11 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.1 (MiKTeX 2.8) (preloaded format=xelatex 2014.8.30)  5 JAN 2015 18:19
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2015.5.8)  28 MAY 2015 20:11
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **info.tex
-
-("C:\My\University Stuff\Grad\Sharif\92-2\Thesis\Hardware Trojan\final thesis\v
-2.0\front\info.tex"
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+(./info.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 )
 ! Emergency stop.
 <*> info.tex
@@ -15,11 +14,11 @@ rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
 
  
 Here is how much of TeX's memory you used:
- 22 strings out of 430435
- 388 string characters out of 3189654
- 45123 words of memory out of 3000000
- 3273 multiletter control sequences out of 15000+200000
- 3640 words of font info for 14 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 7i,0n,6p,112b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 22 strings out of 493734
+ 321 string characters out of 6149469
+ 52937 words of memory out of 5000000
+ 3446 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 7i,0n,6p,112b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.
