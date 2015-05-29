@@ -167,18 +167,18 @@ L.~Lin, M.~Kasper, T.~G{\"u}neysu, C.~Paar, and W.~Burleson.
 \newblock In {\em Cryptographic Hardware and Embedded Systems-CHES 2009}, pages
   382--395. Springer, 2009.
 
-\bibitem{torrance2007reverse}
-R.~Torrance and D.~James.
-\newblock Reverse engineering in the semiconductor industry.
-\newblock In {\em Custom Integrated Circuits Conference, 2007. CICC'07. IEEE},
-  pages 429--436. IEEE, 2007.
-
 \bibitem{rai2009performance}
 D.~Rai and J.~Lach.
 \newblock Performance of delay-based trojan detection techniques under
   parameter variations.
 \newblock In {\em Hardware-Oriented Security and Trust, 2009. HOST'09. IEEE
   International Workshop on}, pages 58--65. IEEE, 2009.
+
+\bibitem{torrance2007reverse}
+R.~Torrance and D.~James.
+\newblock Reverse engineering in the semiconductor industry.
+\newblock In {\em Custom Integrated Circuits Conference, 2007. CICC'07. IEEE},
+  pages 429--436. IEEE, 2007.
 
 \bibitem{aarestad2010detecting}
 J.~Aarestad, D.~Acharyya, R.~Rad, and J.~Plusquellic.
@@ -233,6 +233,18 @@ M.~Tehranipoor and C.~Wang.
 \newblock {\em Introduction to hardware security and trust}.
 \newblock Springer, 2012.
 
+\bibitem{chakraborty2009mero}
+R.~S. Chakraborty, F.~Wolff, S.~Paul, C.~Papachristou, and S.~Bhunia.
+\newblock Mero: A statistical approach for hardware trojan detection.
+\newblock In {\em Cryptographic Hardware and Embedded Systems-CHES 2009}, pages
+  396--410. Springer, 2009.
+
+\bibitem{borkar2003parameter}
+S.~Borkar, T.~Karnik, S.~Narendra, J.~Tschanz, A.~Keshavarzi, and V.~De.
+\newblock Parameter variations and impact on circuits and microarchitecture.
+\newblock In {\em Proceedings of the 40th annual Design Automation Conference},
+  pages 338--342. ACM, 2003.
+
 \bibitem{pomeranz2004measure}
 I.~Pomeranz and S.~M. Reddy.
 \newblock A measure of quality for n-detection test sets.
@@ -281,16 +293,10 @@ D.~McIntyre, F.~Wolff, C.~Papachristou, S.~Bhunia, and D.~Weyer.
 M.~S. Hsiao and M.~Tehranipoor.
 \newblock On trust in third-party hardware ips.
 
-\bibitem{chakraborty2009mero}
-R.~S. Chakraborty, F.~Wolff, S.~Paul, C.~Papachristou, and S.~Bhunia.
-\newblock Mero: A statistical approach for hardware trojan detection.
-\newblock In {\em Cryptographic Hardware and Embedded Systems-CHES 2009}, pages
-  396--410. Springer, 2009.
-
-\bibitem{borkar2003parameter}
-S.~Borkar, T.~Karnik, S.~Narendra, J.~Tschanz, A.~Keshavarzi, and V.~De.
-\newblock Parameter variations and impact on circuits and microarchitecture.
-\newblock In {\em Proceedings of the 40th annual Design Automation Conference},
-  pages 338--342. ACM, 2003.
+\bibitem{mathew1999combining}
+B.~Mathew and D.~G. Saab.
+\newblock Combining multiple dft schemes with test generation.
+\newblock {\em Computer-Aided Design of Integrated Circuits and Systems, IEEE
+  Transactions on}, 18(6):685--696, 1999.
 
 \end{thebibliography}
