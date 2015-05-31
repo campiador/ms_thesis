@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2015.4.6)  1 JUN 2015 02:55
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2015.4.6)  1 JUN 2015 03:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1709,7 +1709,13 @@ Overfull \hbox (0.38237pt too wide) detected at line 20
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [10] (./thesis.lot)
+ [10] (./thesis.lot
+Overfull \hbox (6.75862pt too wide) in paragraph at lines 7--7
+ [][][] [][][][][][][]\EU1/XBNiloofar(2)/m/n/10.95 Reduction in test length wit
+h MERO approach compared to ۱۰۰K[][][][][] 
+ []
+
+)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
@@ -2713,6 +2719,11 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 106.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 114.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][]
+ []
+
 [55] [56]
 \openout2 = `algorithms/Mero.aux'.
 
@@ -2720,23 +2731,23 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 114.
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 5.
 ) [57]
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
 [][]\EU1/XBNiloofar(2)/bx/n/10.95 اندازه[]
  []
 
 
-Overfull \hbox (4.67944pt too wide) in paragraph at lines 138--138
+Overfull \hbox (4.67944pt too wide) in paragraph at lines 165--165
 []\EU1/XBNiloofar(2)/bx/n/10.95 تروجان| []
  []
 
 
-Overfull \hbox (2.63298pt too wide) in paragraph at lines 151--151
+Overfull \hbox (2.63298pt too wide) in paragraph at lines 178--178
 [][]\EU1/XBNiloofar(2)/bx/n/14.4 مقایسه نرخ کشف آزمون اثرات جانبی با استفاده از
  بردارهای هوشمند[]
  []
 
 
-Overfull \hbox (43.35176pt too wide) in paragraph at lines 162--178
+Overfull \hbox (43.35176pt too wide) in paragraph at lines 189--205
 [][]
  []
 
@@ -2744,7 +2755,7 @@ Overfull \hbox (43.35176pt too wide) in paragraph at lines 162--178
 
 
 ]
-Overfull \hbox (11.66138pt too wide) in paragraph at lines 185--188
+Overfull \hbox (11.66138pt too wide) in paragraph at lines 212--215
 [][]\EU1/XBNiloofar(2)/m/n/10.95 همان طور که در جدول [][][][][][]۵‏-‏۱[][][][][
 ][] مشاهده می‌شود بردارهای هوشمند ما بسیار بهتر از بردارهای تصادفی$\OT1/cmr/m/n
 /10.95 [[]]$[]
