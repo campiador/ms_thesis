@@ -149,28 +149,39 @@ ${T\times (451-4)\approx 1.8\times 1013}$
 \end{table}
 
 \section{مقایسه نرخ کشف آزمون اثرات جانبی با استفاده از بردارهای هوشمند و تصادفی}
-\begin{table}[t]
 
-	\begin{center}
-		\begin{tabular}{| p{4cm} | p{4cm} |p{2cm}|}
-			\hline
-			\textbf{ بردار تصادفی} & \textbf{ بردار هوشمند} & \textbf{مدل مدار} \\ \hline \hline
-			99 & 99 &\textbf{c432} \\ \hline
-			98 & 98 &\textbf{c499} \\ \hline
-			98 & 98 &\textbf{c880} \\ \hline
-			94 & 97 &\textbf{c1355} \\ \hline
-			95 & 98 &\textbf{c1908} \\ \hline
-			88 & 96 &\textbf{c2670} \\ \hline
-			86 & 93 &\textbf{c3540} \\ \hline
-			83 & 92 &\textbf{c5315} \\ \hline
-			80 & 92 &\textbf{c6288} \\ \hline
-			77 & 86 &\textbf{c7552} \\ \hline 
-		\end{tabular}
-		\caption{
-		مقایسه آزمون اثرات جانبی با بردارهای هوشمند و تصادفی(نرخ کشف تروا)}
-		\label{tsideivectors}
-	\end{center}
+
+
+
+
+\begin{latin}
+
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[h]
+	\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+		\hline
+		\multirow{3}{*}{Ckt.} & \multicolumn{5}{c|}{Trojan Cov. for 100K Random Vectors (\%)} & \multicolumn{5}{c|}{Trojan Cov. for Reduced Smart Vectors (\%)} \\ \cline{2-11} 
+		& \multicolumn{5}{c|}{Trojan Size}                              & \multicolumn{5}{c|}{Trojan Size}                                \\ \cline{2-11} 
+		& 2           & 4          & 8          & 16        & 32        & 2           & 4          & 8          & 16         & 32         \\ \hline
+		c432                  & 100         & 99         & 99         & 98        & 98        & 100         & 99         & 99         & 98         & 98         \\ \hline
+		c499                  & 100         & 99         & 98         & 98        & 98        & 100         & 99         & 98         & 98         & 98         \\ \hline
+		c880                  & 99          & 99         & 98         & 97        & 95        & 99          & 99         & 98         & 97         & 94         \\ \hline
+		c1355                 & 97          & 95         & 94         & 92        & 90        & 99          & 99         & 98         & 97         & 95         \\ \hline
+		c1908                 & 98          & 96         & 95         & 93        & 92        & 99          & 99         & 98         & 97         & 96         \\ \hline
+		c2670                 & 96          & 91         & 88         & 83        & 74        & 98          & 98         & 97         & 95         & 92         \\ \hline
+		c3540                 & 96          & 92         & 88         & 83        & 71        & 97          & 95         & 94         & 92         & 88         \\ \hline
+		c5315                 & 90          & 88         & 86         & 79        & 70        & 96          & 95         & 93         & 90         & 87         \\ \hline
+		c6288                 & 88          & 86         & 82         & 76        & 68        & 90          & 90         & 87         & 85         & 80         \\ \hline
+		c7552                 & 86          & 86         & 80         & 70        & 59        & 91          & 87         & 81         & 74         & 68         \\ \hline
+	\end{tabular}
+	\caption{\rl{مقایسه آزمون اثرات جانبی با بردارهای هوشمند و تصادفی (نرخ کشف تروا)}}
 \end{table}
+\end{latin}
+
+\vspace{1cm}
+
+
 همان طور که در جدول \ref{tsideivectors} مشاهده می‌شود بردارهای هوشمند ما بسیار بهتر از بردارهای تصادفی$\cite{mathew1999combining}$ تروا‌ها را کشف می‌کنند. دلیل آن است که بیشتر توان مصرفی در سلول‌های
 \lr{TSMC 130 nm}
 متشکل از توان پویا می‌باشد. این توان پویا وابسته به میزان سوئیچینگ گره‌های مدار است. حال که ما مدار را ثابت نگه داشته و بیشتر سعی بر فعال کردن گره‌های تروا‌خیز داشتیم، این اختلاف به خوبی در توان مصرفی خود را نشان داد. نکته دیگری که به نظر می‌رسد این است که با بزرگ شدن هرچه بیشتر مدار میزبان، روش هوشمند ما ارزش خود را بیشتر نشان می‌دهد.
