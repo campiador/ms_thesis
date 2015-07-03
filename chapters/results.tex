@@ -213,6 +213,58 @@ ${T\times (451-4)\approx 1.8\times 1013}$
 \lr{TSMC 130 nm}
 متشکل از توان پویا می‌باشد. این توان پویا وابسته به میزان سوئیچینگ گره‌های مدار است. حال که ما مدار را ثابت نگه داشته و بیشتر سعی بر فعال کردن گره‌های تروا‌خیز داشتیم، این اختلاف به خوبی در توان مصرفی خود را نشان داد. نکته دیگری که به نظر می‌رسد این است که با بزرگ شدن هرچه بیشتر مدار میزبان، روش هوشمند ما ارزش خود را بیشتر نشان می‌دهد.
 
+\begin{latin}
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[]
+	\centering
+	\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+		\hline
+		\multirow{3}{*}{Ckt.} & \multicolumn{5}{c|}{\begin{tabular}[c]{@{}c@{}}Trojan Activation\\  for 100K Random Vectors (\%)\end{tabular}} & \multicolumn{5}{c|}{\begin{tabular}[c]{@{}c@{}}Trojan Activation \\ for Reduced Smart Vectors (\%)\end{tabular}} \\ \cline{2-11} 
+		& \multicolumn{5}{c|}{Trojan Size}                                                                               & \multicolumn{5}{c|}{Trojan Size}                                                                                 \\ \cline{2-11} 
+		& 2                    & 4                    & 8                    & 16                   & 32                 & 2                    & 4                    & 8                    & 16                   & 32                   \\ \hline
+		c432                  & 100                  & 100                  & 100                  & 100                  & 98                 & 100                  & 100                  & 100                  & 100                  & 100                  \\ \hline
+		c499                  & 100                  & 100                  & 100                  & 98                   & 98                 & 100                  & 100                  & 100                  & 100                  & 98                   \\ \hline
+		c880                  & 100                  & 98                   & 98                   & 98                   & 95                 & 100                  & 98                   & 98                   & 96                   & 94                   \\ \hline
+		c1355                 & 98                   & 96                   & 94                   & 92                   & 90                 & 100                  & 98                   & 96                   & 95                   & 92                   \\ \hline
+		c1908                 & 98                   & 94                   & 90                   & 88                   & 88                 & 98                   & 98                   & 95                   & 92                   & 90                   \\ \hline
+		c2670                 & 98                   & 94                   & 88                   & 86                   & 78                 & 98                   & 98                   & 94                   & 92                   & 90                   \\ \hline
+		c3540                 & 96                   & 94                   & 86                   & 80                   & 75                 & 96                   & 96                   & 94                   & 90                   & 87                   \\ \hline
+		c5315                 & 93                   & 88                   & 82                   & 76                   & 70                 & 96                   & 93                   & 90                   & 87                   & 82                   \\ \hline
+		c6288                 & 90                   & 88                   & 82                   & 72                   & 66                 & 92                   & 90                   & 86                   & 82                   & 79                   \\ \hline
+		c7552                 & 84                   & 80                   & 76                   & 70                   & 62                 & 90                   & 88                   & 80                   & 78                   & 70                   \\ \hline
+	\end{tabular}
+	\caption{\rl{نرخ فعال شدن تروا}}
+\end{table}
+\end{latin}
+
+\section{تحلیل زمانی الگوریتم}
+زمان اجرای الگوریتم  عبارت است از:
+
+\begin{center}
+	زمان شبیه‌سازی مدار با $100K$ ورودی + زمان مرتب‌سازی ورودی‌ها + زمان بهینه کردن بردارها
+\end{center}
+
+\begin{itemize}
+	
+\item
+زمان شبیه‌سازی هر ورودی برابر با تعداد گره‌های مدار است. بنابراین زمان شبیه‌سازی مدار با $100K$ ورودی برابر است با
+$|V|\times|Nodes|$.
+\item
+با پیاده‌سازی مناسب، زمان مرتب‌سازی مجموعه ورودی $V$ برابر است با 
+$|V|\times \lg⁡|V|$.
+\item
+زمان متوسط کاهش تست‌های ورودی برابر است با
+$|Nodes|\times|I|\times|L|\times |N|$.
+
+که در آن $I$ مجموعه‌ی گره‌های ورودی و $L$ مجموعه‌ی گره‌های حساس می‌باشد.
+\end{itemize}	
+بنابراین زمان اجرای متوسط این الگوریتم برابر است با:
+\begin{center}
+	$\Theta(V\times|Nodes|  +|V|\times\lg⁡|V|+|Nodes|\times|I|\times|L|\times|N|)$
+\end{center}
+
+
 
 
 
